@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyText
+  director: MyText
+  year: 2020-10-22
+  length_minutes: 1
+
+two:
+  title: MyText
+  director: MyText
+  year: 2020-10-22
+  length_minutes: 1
